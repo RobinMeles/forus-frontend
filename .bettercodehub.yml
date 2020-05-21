@@ -1,2 +1,5 @@
 component_depth: 1
 
+exclude:
+  - /src/sources/forus-platform/js/angular-1/i18n/.*
+
