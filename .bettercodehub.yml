@@ -5,3 +5,4 @@ exclude:
   - /src/sources/forus-platform/js/angular-1/components/.*
   - /src/sources/forus-webshop/js/angular-1/controllers/.*
   - /src/sources/forus-platform/js/angular-1/controllers/.*
+  - /src/sources/forus-backend/js/angular-js/providers/ApiRequestProvider.js
