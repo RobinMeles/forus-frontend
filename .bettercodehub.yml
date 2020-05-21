@@ -6,4 +6,6 @@ exclude:
   - /src/qdt-env.sample.js
   - /src/qdt-config.js
   - /src/sources/forus-platform/js/angular-1/libs/AwesomeQrCode.js
+  - /src/sources/forus-platform/js/angular-1/routers/router.js
+  - /src/sources/forus-webshop/js/angular-1/routers/router.js
 
