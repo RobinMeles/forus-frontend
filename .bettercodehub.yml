@@ -2,4 +2,6 @@ component_depth: 1
 
 exclude:
   - /src/sources/forus-platform/js/angular-1/i18n/.*
+  - /src/qdt-env.sample.js
+  - /src/qdt-config.js
 
