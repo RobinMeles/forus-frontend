@@ -8,3 +8,4 @@ exclude:
   - /src/sources/forus-backend/js/angular-js/providers/ApiRequestProvider.js
   - /src/sources/forus-webshop/js/angular-1/directives/PincodeControlDirective.js
   - /src/sources/forus-platform/js/angular-1/routers/router.js
+  - /src/sources/forus-platform/js/angular-1/libs/AwesomeQrCode.js
