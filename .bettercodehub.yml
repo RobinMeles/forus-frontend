@@ -15,3 +15,6 @@ exclude:
   - /src/sources/forus-platform/js/angular-1/directives/.*
   - /src/sources/forus-webshop/js/angular-1/routers/.*
   - /src/sources/forus-platform/js/angular-1/routers/.*
+  - /src/gulpfile.js
+  - /src/qdt-config.js
+  - /src/qdt-env.sample.js
