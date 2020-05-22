@@ -13,3 +13,4 @@ exclude:
   - /src/gulpfile.js
   - /src/qdt-env.sample.js
   - /src/qdt-config.js
+  - /src/sources/forus-webshop/js/angular-1/i18n/.*
